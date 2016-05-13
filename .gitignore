@@ -1,0 +1,6 @@
+*.[oa]
+cscope*
+.*swp
+.depend
+WAN_OS_Tool_Serial
+a.out
