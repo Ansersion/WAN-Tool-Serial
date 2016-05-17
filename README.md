@@ -1,2 +1,2 @@
-# WAN-boot
-A lightwight OS boot for embedded system
+# WAN-Tool-Serial
+A serial shell for WAN-OS and WAN-OS-Boot 
